@@ -1,14 +1,7 @@
 # 🌤 Advanced Weather Application
 
 Developed as part of AICTE Oasis Infobyte Python Development Internship.
-
-## Features
-- Real-time weather data using OpenWeather API
-- GUI built with Tkinter
-- Dynamic background based on weather condition
-- Celsius/Fahrenheit conversion
-- Secure API key using .env file Advanced Weather Application
- Description:
+Description:
       A GUI-based weather application developed using Python and Tkinter.The application fetches real-time weather data from OpenWeather API and displays temperature, humidity, wind speed, and weather conditions dynamically.
 
 Features:
@@ -16,7 +9,8 @@ Features:
  -Dynamic background based on weather condition
  -Unit conversion (Celsius / Fahrenheit)
  -Weather icons
- -Secure API key using environment variables
+ -GUI built with Tkinter
+ -Secure API key using .env file Advanced Weather Applicatio
  -Error handling
  -Clean and modern GUI
 
