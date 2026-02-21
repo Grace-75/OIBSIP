@@ -1,0 +1,4 @@
+# Advanced Chat Application - OIBSIP Internship
+# This project uses only Python built-in libraries.
+
+Python >= 3.8
